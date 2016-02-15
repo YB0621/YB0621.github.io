@@ -545,6 +545,7 @@ ul#nav ul li a {
    display: block;
 }
 
+
 /* overlay */
 .portfolio-item .item-wrap .overlay {
    position: absolute;
@@ -1263,3 +1264,7 @@ footer .copyright  li:first-child:before {
    color: transparent;
 }
 #go-top a:hover { background-color: #0F9095; }
+#page-titleone{
+background-color: #ffffff;
+
+}
