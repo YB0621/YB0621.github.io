@@ -1,0 +1,502 @@
+body{
+  background-image: url('http://www.wallpapersbuilder.com/user-content/uploads/wall/o/49/simple_blue_animated_sky_with_some_white_clouds_1920x1080_wallpaper.jpg')
+}
+#skip{
+  position: absolute;
+  left:330px;
+  top:15px;
+}
+#begin{
+  position:absolute;
+  top:170px;
+  left:160px;
+  font-size:40px;
+}
+#di{
+  position:absolute;
+  left:40px;
+  top:30px;
+}
+#title{
+  position: absolute;
+  left: 370px;
+  font-size: 50px;
+}
+#title2{
+  position: absolute;
+  left: 520px;
+  top: 100px;
+  font-size: 50px;
+}
+#picture{
+  position:absolute;
+  top:100px;
+  left:150px;
+}
+#word{
+  position:absolute;
+  top:50px;
+  left:50px;
+}
+#wordtwo{
+  position:absolute;
+  left:50px;
+  top:70px;
+}
+#wordthree{
+  position:absolute;
+  top:50px;
+  left:50px;
+}
+#wordfour{
+  position:absolute;
+  left:50px;
+  top:70px;
+}
+#wordfive{
+   position:absolute;
+  top:50px;
+  left:50px;
+}
+#wordsix{
+   position:absolute;
+  left:50px;
+  top:70px;
+}
+#wordseven{
+     position:absolute;
+  top:50px;
+  left:50px;
+  
+}
+#wordeight{
+   position:absolute;
+  left:50px;
+  top:70px;
+}
+#continue{
+  position:absolute;
+  left:100px;
+  top:120px;
+}
+#continuetwo{
+  position:absolute;
+  left:100px;
+  top:120px;
+}
+#continuethree{
+  position:absolute;
+  left:100px;
+  top:120px;
+}
+#continuefour{
+position:absolute;
+  left:100px;
+  top:120px;
+}
+
+#two{
+  position:absolute;
+  left:500px;
+  top:200px;
+}
+#three{
+  position:absolute;
+  left:300px;
+  top:350px;
+}
+#boxes{
+  position: absolute;
+  left:400px;
+  top:150px;
+  width:400px;
+  height: 400px;
+  border-style: solid;
+    border-width: 5px;
+}
+#start{
+  position:absolute;
+  top:420px;
+  left:550px;
+  font-size:40px;
+}
+#instruction{
+   position:absolute;
+  top:500px;
+  left:500px;
+  font-size:40px;
+}
+#one{
+  position: absolute;
+  left:440px;
+  top:350px;
+}
+#four{
+  position:absolute;
+  left:700px;
+  top:270px;
+}
+#five{
+  position:absolute;
+  top:350px;
+  left:690px;
+}
+#six{
+  position:absolute;
+  top:500px;
+  left:500px;
+}
+#stage1{
+  position:absolute;
+  top:150px;
+  left:550px;
+  font-size:20px;
+}
+#stage2{
+    position:absolute;
+  top:150px;
+  left:550px;
+  font-size:20px;
+}
+#seven{
+  position:absolute;
+  top:350px;
+  left:600px;
+}
+#eight{
+  position:absolute;
+  top:250px;
+  left:430px;
+}
+#nine{
+  position:absolute;
+  top:500px;
+  left:650px;
+}
+#ten{
+  position:absolute;
+  top:190px;
+  left:440px;
+}
+#eleven{
+  position: absolute;
+  top: 350px;
+  left:730px;
+}
+#twelve{
+  position:absolute;
+  top:170px;
+  left:430px;
+}
+#stage3{
+   position:absolute;
+  top:150px;
+  left:550px;
+  font-size:20px;
+}
+#thirteen{
+  position:absolute;
+  left:170px;
+  top:770px;
+}
+#end{
+  position: absolute;
+  top:200px;
+  left:470px;
+  font-size:15px;
+}
+#fourteen{
+  position:absolute;
+  left:730px;
+  top:180px;
+}
+#fifteen{
+  position:absolute;
+  left:430px;
+  top:310px;
+}
+#sixteen{
+    position:absolute;
+  left:720px;
+  top:510px;
+}
+#seventeen{
+      position:absolute;
+  left:418px;
+  top:450px;
+}
+#eighteen{
+      position:absolute;
+  left:450px;
+  top:210px;
+}
+#nineteen{
+      position:absolute;
+  left:418px;
+  top:470px;
+}
+#twenty{
+      position:absolute;
+  left:700px;
+  top:217px;
+}
+#twentyone{
+      position:absolute;
+  top:470px;
+  left:700px;
+}
+#twentytwo{
+      position:absolute;
+  top:250px;
+  left:148px;
+}
+#twentytwo{
+      position:absolute;
+  top:170px;
+  left:400px;
+}
+#twentythree{
+      position:absolute;
+  top:350px;
+  left:700px;
+}
+#twentyfour{
+      position:absolute;
+  top:190px;
+  left:430px;
+}
+#twentyfive{
+      position:absolute;
+  left:660px;
+  top:250px;
+}
+#twentysix{
+      position:absolute;
+  left:418px;
+  top:500px;
+}
+#twentyseven{
+      position:absolute;
+  left:700px;
+  top:170px;
+}
+#twentyeight{
+      position:absolute;
+  left:590px;
+  top:350px;
+}
+#twentynine{
+      position:absolute;
+  left:518px;
+  top:550px;
+}
+#bomb{
+      position:absolute;
+  top:200px;
+  left:600px;
+}
+#bomb2{
+      position:absolute;
+  top:250px;
+  left:420px;
+}
+#bomb3{
+      position:absolute;
+  top:450px;
+  left:700px;
+}
+#bomb4{
+      position:absolute;
+  top:170px;
+  left:420px;
+}
+#bomb5{
+      position:absolute;
+  top:450px;
+  left:423px;
+}
+
+#bomb6{
+      position:absolute;
+  top:450px;
+  left:600px;
+}
+#bomb7{
+      position:absolute;
+  top:180px;
+  left:600px;
+}
+#bomb8{
+      position:absolute;
+   left:730px;
+  top:180px;
+}
+#bomb9{
+     position:absolute;
+  top:350px;
+  left:690px;
+}
+#bomb10{
+      position:absolute;
+    top:180px;
+  left:600px;
+}
+#bomb11{
+      position:absolute;
+   top:450px;
+  left:423px;
+}
+#bomb12{
+      position:absolute;
+  top:350px;
+  left:690px;
+}
+#bomb13{
+      position:absolute;
+   left:730px;
+  top:180px;
+}
+#bomb14{
+      position:absolute;
+   top:450px;
+  left:423px;
+}
+#bomb15{
+      position:absolute;
+    top:180px;
+  left:600px;
+}
+#bomb16{
+      position:absolute;
+  top:350px;
+  left:690px;
+}
+#bomb17{
+      position:absolute;
+   top:450px;
+  left:423px;
+}
+#bomb18{
+      position:absolute;
+    top:180px;
+  left:600px;
+}
+#bomb19{
+      position:absolute;
+   left:730px;
+  top:318px;
+}
+#bomb20{
+      position:absolute;
+   top:450px;
+  left:423px;
+}
+#bomb21{
+      position:absolute;
+    top:180px;
+  left:600px;
+}
+#bomb22{
+      position:absolute;
+  top:350px;
+  left:690px;
+}
+#bomb23{
+      position:absolute;
+   left:730px;
+  top:180px;
+}
+#bomb24{
+      position:absolute;
+   top:450px;
+  left:423px;
+}
+#stagefour{
+    position:absolute;
+    top:150px;
+    left:550px;
+    font-size:20px;
+}
+#pagerefresh{
+    position: absolute;
+    top:400px;
+    left:570px;
+}
+#gameover{
+  position:absolute;
+  left:500px;
+  top:200px;
+}
+#laststage{
+     position:absolute;
+    top:150px;
+    left:550px;
+    font-size:20px;
+}
+#box{
+position:absolute;
+  top:80px;
+  left:530px;
+}
+#iword{
+  position:absolute;
+  left:550px;
+  top:100px;
+}
+#iword2{
+  position:absolute;
+  left:550px;
+  top:130px;
+}
+#word3{
+  position:absolute;
+  left:550px;
+  top:160px;
+}
+#word4{
+  position:absolute;
+  left:550px;
+  top:190px;
+}
+#word5{
+  position:absolute;
+  left:550px;
+  top:220px;
+}
+#word6{
+  position:absolute;
+  left:550px;
+  top:250px;
+}
+#word7{
+  position:absolute;
+  left:550px;
+  top:280px;
+}
+#word8{
+  position:absolute;
+  left:550px;
+  top:310px;
+}
+#word9{
+  position:absolute;
+  left:550px;
+  top:340px;
+}
+#word10{
+  position:absolute;
+  left:550px;
+  top:370px;
+}
+#word11{
+  position:absolute;
+  left:550px;
+  top:410px;
+  font-size:30px;
+}
+#back{
+  position:absolute;
+  left:350px;
+  top:250px;
+  font-size:20px;
+}
